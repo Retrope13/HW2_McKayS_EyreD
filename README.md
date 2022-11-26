@@ -1,7 +1,7 @@
 # HW2_McKayS
 Sam McKay
 
-Notes: I've reached out to Mr. Ortega 
+Notes: I've reached out to Mr. Ortega regarding an imbalance between my partner and my work and so he allowed me to be graded alone for this project.
 
 To Start Game: Since I will be showing my demo within the Unreal Editor all I have to do is ensure that the Quest 2 is connected to the computer, the oculus app is open then I will be able to select "VR Preview".
 From here A main menu will appear with full vr capabilities. The main menu will contain a "Play" and "Quit" button that the user can select by moving the motion controller and then pressing the trigger. If the player selects "Play"
